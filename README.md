@@ -1,10 +1,12 @@
 # beam-pagerank-go
 Calculating the page rank using go.
-
+<br/>
 [Go Quickstart](https://beam.apache.org/get-started/quickstart-go/) 
+<br/>
 [Beam programming-guide](https://beam.apache.org/documentation/programming-guide/)
+<br/>
 [Reference: Dr.Case beam-parerank-go](https://github.com/denisecase/beam-pagerank-go)
-
+<br/>
 ## Check go version
 ```
 go version
